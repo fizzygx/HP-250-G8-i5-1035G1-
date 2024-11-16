@@ -1,18 +1,21 @@
 
 
 
-![new_project_-_2024-01-10t152628  MConverter eu](https://github.com/user-attachments/assets/c7062104-5c4a-4037-89c5-8a19a303a56a)
+![images](https://github.com/user-attachments/assets/f3c297a1-9b5f-403f-963d-00390ed5a8f1)
 
 
 
-Name 	Description
-CPU 	Intel Core i5-1035G1
-GPU 	Intel UHD Graphics
-RAM 	12 GB DDR4
-SSD 	1TB GB
-Wi-Fi & Bluetooth 	Intel(R) Wireless Dual Band AC-3165
-macOS 	Big Sur/ Monterey / Ventura 
-OpenCore 	1.0.0 for HP 250 G8
+
+Laptop Specifications:
+
+    Intel Core i5-1035G1
+    Intel UHD Graphics
+    12 GB DDR4 RAM
+    1T HDD/SDD
+    ELAN0709 TouchPad
+    Intel Dual Band Wi-Fi and Bluetooth Card
+    Big Sur/ Monterey / Ventura 
+    OpenCore 1.0.0 for HP 250 G8
 
 What works:
 
