@@ -1,7 +1,8 @@
 
 
 
-![images  MConverter eu](https://github.com/user-attachments/assets/050632aa-ca16-4c73-8455-c142e97fd878)
+![HP-DUAL-CORE-600x450  MConverter eu](https://github.com/user-attachments/assets/1b25b23b-016c-485a-a6f4-7ca4bb03a354)
+
 
 
 
