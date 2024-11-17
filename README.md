@@ -43,7 +43,9 @@ What works:
 What doesnt work?
 
 -Brightness keys need to be remapped in MacOS->Setting Preferences->Keyboard->Display-> Then assign e.g FN+F2 for decreasing brightness & Fn+F3 for increasing brightness
+
 -Trackpad Tap and Hold isnt working theres need to use the left key and trackpad to move items
+
 -Native Card Realtek only works bluetooth so i changed mine to an Intel Wireless card i had lying around for both Wi-Fi and Bluetooth so id advise get a new one according to the dortania guide.
 
 
